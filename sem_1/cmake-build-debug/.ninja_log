@@ -1,0 +1,13 @@
+# ninja log v5
+792	888	1644076466041947186	src/libmy_project.a	c811488a9a387601
+0	790	1644076465941944145	src/CMakeFiles/my_project.dir/my_project/SlaeBaseException.cpp.o	47978dcba49e879d
+2	3533	1644077300180087600	tests/googletest-master/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	3b0d94b677e158a8
+1	3624	1644077300272088711	tests/CMakeFiles/run_test_exception.dir/test_exception.cpp.o	765ad15ccfa662f
+1	7017	1644077303660129572	tests/googletest-master/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	945a3e2273abe66a
+7017	7066	1644077303712130199	lib/libgtestd.a	3aa060d7475ff5dd
+7066	7080	1644077303720130296	lib/libgtest_maind.a	24ee866c335cdfe8
+7080	7359	1644077304004133719	tests/run_test_exception	5e4f19044330f347
+1	1322	1644077326964409779	tests/CMakeFiles/run_test_exception.dir/test_exception.cpp.o	765ad15ccfa662f
+1322	1499	1644077327156412082	tests/run_test_exception	5e4f19044330f347
+1	1322	1644077793405838491	tests/CMakeFiles/run_test_exception.dir/test_exception.cpp.o	765ad15ccfa662f
+1322	1500	1644077793581840505	tests/run_test_exception	5e4f19044330f347

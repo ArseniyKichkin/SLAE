@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmy_project.a CMakeFiles/my_project.dir/my_project/SlaeBaseException.cpp.o CMakeFiles/my_project.dir/my_project/ThreeDiagonalSolve/ThreeDiagonalSolve.cpp.o CMakeFiles/my_project.dir/my_project/matrix/ThreeDiagonalMatrix.cpp.o CMakeFiles/my_project.dir/my_project/src/sparse/CSR.cpp.o
+/usr/bin/ranlib libmy_project.a

@@ -1,0 +1,6 @@
+/snap/clion/184/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DWITH_TESTS=ON -G "CodeBlocks - Unix Makefiles" "/home/arsenii/Рабочий стол/11/sem_1"
+TEST_FILE: /home/arsenii/Рабочий стол/11/sem_1/tests/test_exception.cpp
+TESTING: ON
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/arsenii/Рабочий стол/11/sem_1/cmake-build-debug
